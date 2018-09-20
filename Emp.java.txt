@@ -1,4 +1,4 @@
-import java.io.*
-public class Employee{
- String empId;
+//Employee POJO Class
+@Bean
+public class EmpBean{
 }
